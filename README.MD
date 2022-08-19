@@ -1,1 +1,3 @@
-LeetCode 每日一题记录
+# What Is This? 
+This a project that records my daily Leetcode solutions.
+

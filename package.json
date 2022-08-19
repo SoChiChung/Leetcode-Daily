@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "This a project that records my daily Leetcode solutions.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoChiChung/Leetcode-Daily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoChiChung/Leetcode-Daily/issues"
+  },
+  "homepage": "https://github.com/SoChiChung/Leetcode-Daily#readme"
+}
