@@ -10,7 +10,7 @@
 
 # thoughts
 
-(question)[https://leetcode.cn/problems/linked-list-components/]
+[question](https://leetcode.cn/problems/linked-list-components/)
 
 # traps
 
